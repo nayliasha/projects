@@ -1,15 +1,3 @@
-/*
-* File: Assignment2_SubmissionTemplate.sql
-* 
-* 1) Rename this file according to the instructions in the assignment statement.
-* 2) Use this file to insert your solution.
-*
-*
-* Author: <NAYLI>, <ASHA>
-* Student ID Number: <2381850>
-* Institutional mail prefix: <axn165>
-*/
-
 
 /*
 *  Assume a user account 'fsad' with password 'fsad2022' with permission
